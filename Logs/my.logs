@@ -1,0 +1,84 @@
+18:03:42.538 [main]INFO  StepDef - launch browser
+18:03:57.323 [main]INFO  StepDef - Enter valid username and password
+18:04:07.834 [main]INFO  StepDef - User navigate to dashborad page
+18:04:07.848 [main]INFO  StepDef - Click on login button
+18:04:12.965 [main]INFO  StepDef - User click on userdropdown tab
+18:04:16.793 [main]INFO  StepDef - User click on LogOutLink
+18:04:26.683 [main]INFO  StepDef - User navigate to dashborad page
+18:04:26.685 [main]INFO  StepDef - User close browser
+18:05:15.609 [main]INFO  StepDef - launch browser
+18:05:30.661 [main]INFO  StepDef - User enter invalid username and password
+18:05:48.889 [main]INFO  StepDef - Click on login button
+18:05:54.103 [main]INFO  StepDef - User should see an error message Invalid credential
+18:05:54.105 [main]INFO  StepDef - User close browser
+18:06:15.498 [main]INFO  StepDef - launch browser
+18:06:19.400 [main]INFO  StepDef - User enter invalid username and password
+18:06:26.709 [main]INFO  StepDef - Click on login button
+18:06:29.548 [main]INFO  StepDef - User should see an error message Invalid credential
+18:06:29.549 [main]INFO  StepDef - User close browser
+18:06:44.651 [main]INFO  StepDef - launch browser
+18:06:48.561 [main]INFO  StepDef - User enter invalid username and password
+18:06:55.905 [main]INFO  StepDef - Click on login button
+18:06:58.132 [main]INFO  StepDef - User should see an error message Invalid credential
+18:06:58.133 [main]INFO  StepDef - User close browser
+18:07:10.646 [main]INFO  StepDef - launch browser
+18:07:14.912 [main]INFO  StepDef - User keeps blank username and password
+18:07:14.913 [main]INFO  StepDef - Click on login button
+18:07:17.336 [main]INFO  StepDef - User should see message Required
+18:07:17.337 [main]INFO  StepDef - User close browser
+18:09:43.019 [main]INFO  StepDef - launch browser
+18:09:47.962 [main]INFO  StepDef - Enter valid username and password
+18:09:48.916 [main]INFO  StepDef - User navigate to dashborad page
+18:09:48.920 [main]INFO  StepDef - Click on login button
+18:09:50.893 [main]INFO  StepDef - User click on userdropdown tab
+18:09:51.777 [main]INFO  StepDef - User click on LogOutLink
+18:09:53.497 [main]INFO  StepDef - User navigate to dashborad page
+18:09:53.499 [main]INFO  StepDef - User close browser
+18:10:09.941 [main]INFO  StepDef - launch browser
+18:10:14.415 [main]INFO  StepDef - User enter invalid username and password
+18:10:21.950 [main]INFO  StepDef - Click on login button
+18:10:25.328 [main]INFO  StepDef - User should see an error message Invalid credential
+18:10:25.329 [main]INFO  StepDef - User close browser
+18:10:34.488 [main]INFO  StepDef - launch browser
+18:10:38.689 [main]INFO  StepDef - User enter invalid username and password
+18:10:48.795 [main]INFO  StepDef - Click on login button
+18:10:50.885 [main]INFO  StepDef - User should see an error message Invalid credential
+18:10:50.886 [main]INFO  StepDef - User close browser
+18:11:10.254 [main]INFO  StepDef - launch browser
+18:11:16.517 [main]INFO  StepDef - User enter invalid username and password
+18:11:26.358 [main]INFO  StepDef - Click on login button
+18:11:32.146 [main]INFO  StepDef - User should see an error message Invalid credential
+18:11:32.149 [main]INFO  StepDef - User close browser
+18:11:55.780 [main]INFO  StepDef - launch browser
+18:12:08.166 [main]INFO  StepDef - User keeps blank username and password
+18:12:08.177 [main]INFO  StepDef - Click on login button
+18:12:18.847 [main]INFO  StepDef - User should see message Required
+18:12:18.848 [main]INFO  StepDef - User close browser
+18:15:36.876 [main]INFO  StepDef - launch browser
+18:15:46.753 [main]INFO  StepDef - Enter valid username and password
+18:15:52.283 [main]INFO  StepDef - User navigate to dashborad page
+18:15:52.322 [main]INFO  StepDef - Click on login button
+18:15:55.555 [main]INFO  StepDef - User click on userdropdown tab
+18:15:58.066 [main]INFO  StepDef - User click on LogOutLink
+18:16:03.369 [main]INFO  StepDef - User navigate to dashborad page
+18:16:03.370 [main]INFO  StepDef - User close browser
+18:16:29.148 [main]INFO  StepDef - launch browser
+18:16:34.109 [main]INFO  StepDef - User enter invalid username and password
+18:16:42.351 [main]INFO  StepDef - Click on login button
+18:16:44.934 [main]INFO  StepDef - User should see an error message Invalid credential
+18:16:44.936 [main]INFO  StepDef - User close browser
+18:16:55.865 [main]INFO  StepDef - launch browser
+18:17:00.231 [main]INFO  StepDef - User enter invalid username and password
+18:17:07.139 [main]INFO  StepDef - Click on login button
+18:17:09.495 [main]INFO  StepDef - User should see an error message Invalid credential
+18:17:09.496 [main]INFO  StepDef - User close browser
+18:17:23.303 [main]INFO  StepDef - launch browser
+18:17:27.697 [main]INFO  StepDef - User enter invalid username and password
+18:17:34.917 [main]INFO  StepDef - Click on login button
+18:17:37.897 [main]INFO  StepDef - User should see an error message Invalid credential
+18:17:37.898 [main]INFO  StepDef - User close browser
+18:17:52.413 [main]INFO  StepDef - launch browser
+18:17:56.798 [main]INFO  StepDef - User keeps blank username and password
+18:17:56.799 [main]INFO  StepDef - Click on login button
+18:17:57.933 [main]INFO  StepDef - User should see message Required
+18:17:57.934 [main]INFO  StepDef - User close browser
